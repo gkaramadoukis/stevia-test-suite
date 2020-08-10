@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.persado.oss.quality.stevia:stevia-core:0.9.22-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/persado/oss/quality/stevia/stevia-core/0.9.22-SNAPSHOT/stevia-core-0.9.22-20171206.125407-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/persado/oss/quality/stevia/stevia-core/0.9.22-SNAPSHOT/stevia-core-0.9.22-20171206.125407-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/persado/oss/quality/stevia/stevia-core/0.9.22-SNAPSHOT/stevia-core-0.9.22-20171206.125407-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
