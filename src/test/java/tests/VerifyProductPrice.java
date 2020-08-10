@@ -33,7 +33,7 @@ public class VerifyProductPrice extends SteviaTestBase {
 
 
     @Test(dependsOnMethods = {"executePreconditions"}, priority = 2)
-    public void VerifyProductPrice() throws InterruptedException {
+    public void verifyProductPrice() throws InterruptedException {
         dealsPage.clickGoToCard();
         LOG.info("User navigates to the cart");
         cartPage.verifyProductPrice(cartPage.getItemPriceCart(), productPriceCart);
